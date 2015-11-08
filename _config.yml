@@ -1,0 +1,22 @@
+# Site settings.
+title: Por um oceano mais orgânico
+name: Suporte à pesquisa
+safe: true
+email: juoceano@gmail.com
+
+description: "Por um oceano mais orgânico"
+baseurl: "/por-um-oceano-mais-organico"
+url: "http://juoceano.github.io"
+twitter_username: juoceano
+github_username:  juoceano
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+layout: default
+relative_permalinks: false
+google_analytics_id: UA-9133259-16
+repository: https://github.com/juoceano/por-um-oceano-mais-organico
+
